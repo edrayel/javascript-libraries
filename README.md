@@ -1,1 +1,1 @@
-# javascript_password_validator
+# My JavaScript libraries
